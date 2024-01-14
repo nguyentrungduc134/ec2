@@ -1,8 +1,13 @@
 # ec2
-prerequites:
+
+**prerequites**:
+ 
  aws set up
+ 
  ssh key set up
 
-run terraform
+**run terraform**
+
  terraform init
+ 
  terraform apply
